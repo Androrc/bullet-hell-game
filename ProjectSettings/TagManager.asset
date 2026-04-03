@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Parede
+  - Enemy
+  - PontoA
+  - PontoB
+  - PontoE
+  - Bala
+  - Tiro
+  - chao
+  - corredor1
+  - salaElevador
+  - Arma
+  - Elev2
+  - Elev3
+  - Elev4
+  - Elev5
+  - Elev6
+  - FazTudo
+  - water
+  - saida
+  - corredorBurn
+  - salaBurn
+  - Elev7
+  - fuga
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - TiroInimigo
+  - TiroEvan
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
