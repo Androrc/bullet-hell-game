@@ -4,7 +4,7 @@ A 2D **Bullet Hell** game developed in **Unity** with Pixel Art graphics.
 
 This project was created by a **team of 4** as a final year high school TCC during the **Digital Game Programming** technical course. 
 
-![Gameplay](assets/gameplay.gif)
+![Gameplay](Assets/gameplay.gif)
 
 The game also **subtly addresses social issues** such as:  
 - Workplace abuse  
